@@ -2,7 +2,7 @@
 公共工事品確法に基づき国が毎年行っている「業務に関する運用指針調査の結果」をQGISで地図データベース化する試み．
 
 作成のきっかけやデータ仕様は作成者Wikiを参照のこと．
-https://w.atwiki.jp/kohei-hasegawa/pages/106.html
+https://w.atwiki.jp/kohei-hasegawa/pages/106.html</br>
 
 本レポジトリにはマップQGISプロジェクトファイル一式や高画質版のマップを保管している．</br>
 レポジトリのマスターデータやGISプロジェクトファイルから，ダンピング対策状況以外にも，</br>
